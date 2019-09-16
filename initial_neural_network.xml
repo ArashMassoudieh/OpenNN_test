@@ -1,0 +1,23 @@
+<NeuralNetwork>
+   <Inputs>
+      <InputsNumber>1</InputsNumber>
+      <Item Index="1">
+         <Name>input_1</Name>
+         <Units></Units>
+         <Description></Description>
+      </Item>
+   </Inputs>
+   <MultilayerPerceptron>
+      <Architecture>1 2 1</Architecture>
+      <LayersActivationFunction>HyperbolicTangent Linear</LayersActivationFunction>
+      <Parameters>-0.153676 -1.32938 -0.462301 1.17958 0.959882 0.649233 0.390997</Parameters>
+   </MultilayerPerceptron>
+   <Outputs>
+      <OutputsNumber>1</OutputsNumber>
+      <Item Index="1">
+         <Name>output_1</Name>
+         <Units></Units>
+         <Description></Description>
+      </Item>
+   </Outputs>
+</NeuralNetwork>
